@@ -1,0 +1,18 @@
+{
+  "generator-angular-meteor": {
+    "filters": {
+      "js": true,
+      "html": true,
+      "css": true,
+      "pagination": false,
+      "framework": "bootstrap",
+      "auth": false,
+      "appname": "testAppApp",
+      "projectname": "testApp",
+      "modules": "'angular-meteor',\n  'ui.router',\n  'ui.bootstrap'",
+      "usedBower": false,
+      "bower": false
+    },
+    "appname": "testApp"
+  }
+}
